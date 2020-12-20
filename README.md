@@ -1,2 +1,1 @@
-# recommender_images
-ai for recommend images from article content
+# ai_parking_system
